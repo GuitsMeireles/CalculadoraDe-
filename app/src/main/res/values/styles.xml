@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CardViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="cardCornerRadius">20dp</item> <!-- Cantos arredondados com 16dp -->
+        <item name="cardElevation">20dp</item> <!-- Elevação para dar destaque -->
+        <item name="cardBackgroundColor">#FFFFFF</item> <!-- Cor de fundo -->
+    </style>
+
+</resources>
